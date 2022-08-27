@@ -7,3 +7,5 @@ DAFTAR BULAN DALAM SETAHUN
 - Juni
 - Juli
 - Agustus
+- September
+- Oktober
